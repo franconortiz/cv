@@ -1,0 +1,226 @@
+
+     body { 
+     background-image:url("fondo1.jpg"); }
+
+		
+		
+}
+ul { 
+ 		float:left;
+ 		
+ 		 }
+h1{ 
+	font-family: 'Anton', sans-serif;
+
+	color:white;
+	word-spacing:8px;
+	letter-spacing: 1px;
+
+
+	
+ }
+ h2 {
+font-family: 'Caveat Brush', cursive;	color:white;
+	word-spacing:8px;
+	letter-spacing: 1px;
+	font-size: 30px;
+
+}
+body {
+	font-family: 'Ubuntu', sans-serif;
+	color:white;
+	background-image: 'fondo1.jpg'
+}
+
+
+}
+
+h3{ 
+	font-family: 'Anton', sans-serif;
+	color:white;
+	word-spacing:10px;
+	letter-spacing: 1px;
+	margin-left: 30%;
+	clear:both;
+
+}
+.lista {
+	margin-left: 30%; 
+	clear:both;
+	float:left;
+	
+}
+.experiencia {
+		clear:both;
+}
+img {
+	width: 228px;
+	height:151px;
+	float:left; 
+}
+.imagen {;
+clear:both;
+	float:left;
+}
+
+.list{
+	clear: both;
+	float: left;
+text-decoration: none;}
+
+
+ #indice {
+		content: 100px;
+		width: 30%;
+}
+.quien_soy{ 
+	background-color:rgba(48, 48, 48, 0.5);
+    margin-left: 30%;
+    margin-right: 10%;
+    padding: 30px 50px;
+    line-height: 15px;
+
+   border-radius:7px;
+ 	box-sizing: border-box;
+}
+#chau{
+	margin-top: 5%;
+	clear: both;
+}
+.formacion { 
+	background-color:rgba(48, 48, 48, 0.5);
+	
+    margin-left: 30%;
+     margin-right: 10%;
+  padding: 30px 50px;
+  border-radius:7px;
+ 	box-sizing: border-box;
+ }
+
+ .conocimiento {
+ 	background-color:rgba(48, 48, 48, 0.5);
+    margin-left: 30%;
+     margin-right: 10%;
+     padding: 30px 50px;
+     border-radius:7px;
+ 	box-sizing: border-box;
+
+ }
+ .experiencia {
+ background-color:rgba(48, 48, 48, 0.5);
+	
+    margin-left: 30%;	
+     margin-right: 10%;
+     padding: 30px 50px;
+     border-radius:7px;
+ 	box-sizing: border-box;
+ }
+ .curriculum{
+ 	margin-left: 30%;
+ 	float:left;
+ 	clear:right;
+ }
+
+ .list a {
+ 	text-decoration: none;
+ 	color:black;
+ }
+ .boton{
+ 	padding: 10px;
+ 	padding-left: 85px;
+ 	padding-right: 85px;
+ 	background-color: white;
+ 	font-family: 'Anton', sans-serif;
+ 	text-align: center;
+ 	margin-top: 2%;
+ }
+ #botones{
+ 	margin-left: 5%;
+
+ }
+ #fotoperfil{
+ 	margin:auto; 
+ 	background-color: white;
+ 	display: block;
+ 	padding-left: 5%;
+ 	padding-bottom: 16%;
+ 	padding-top: 6%;
+ 	padding-right:5%;
+ 	
+ 	}
+#prese{
+	margin-top: 8%;
+}
+#menu{
+	position: fixed;
+	margin-left: 4.5%
+
+}
+#name{
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+}
+.edad{
+	font-size: 20px;
+	font-family: 'Anton', sans-serif;
+
+}
+.arriba{
+	 	padding: 10px;
+ 	
+ 	
+ 	font-family: 'Anton', sans-serif;
+ 	text-align: center;
+ 	margin-left: 30%;
+ 	color:white;
+ 	font-size: 20px;
+ 	text-decoration: none;
+ 	border-radius:7px;
+ 	background: rgba(0,0,0,0.4);
+  	letter-spacing:2px; 
+  	content: 30px;
+}
+#todo{
+	text-decoration: none;
+	clear: both;
+}
+
+p.curriculum{
+font-family: 'Anton', sans-serif;
+font-size: 30px;
+margin-left: 15%;
+letter-spacing: 2px;
+}
+#derecha{
+	float: right;
+}
+#izquierda{
+	float: left;
+}
+#top{
+	letter-spacing: 10px;
+}
+
+#iconouno{
+	
+	width: 66px;
+	height: 80px;
+	float: left;
+clear: both;
+margin-left: 4px;
+padding-right: 5px;
+position: fixed;
+	
+
+}
+
+#iconodos{
+	width: 66px;
+	height: 80px;
+	float: left;
+clear: both;
+
+position: fixed;
+
+padding-right: 5px;
+}
